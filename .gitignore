@@ -1,0 +1,4 @@
+#want to ignore .txt files
+*.txt
+file6.c
+
